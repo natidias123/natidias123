@@ -1,5 +1,9 @@
 
-Olá, meu nome é Natália
+Olá, meu nome é Natália!
 
-Estou estudando Python
-<i class="devicon-python-plain-wordmark colored"></i>
+
+
+Estou estudando:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="40" height="40"/>
+
